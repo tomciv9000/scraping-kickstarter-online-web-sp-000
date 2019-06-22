@@ -16,7 +16,6 @@ def create_project_hash
     }
   end
   projects
-  binding.pry
 end
 
 # projects: kickstarter.css("li.project.grid_4")
